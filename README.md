@@ -16,12 +16,12 @@ Use the `/training/panasonic/convert_mat_to_csv.ipynb` notebook to convert MAT f
 
 ## Usage
 To get started
-- Clone this repository to your local machine.
-- Download datasets, locate them under the 'datasets' folder.
+-- Clone this repository to your local machine.
+-- Download datasets, locate them under the 'datasets' folder.
 - Convert Panasonic .mat files to .csv.
 - Run training notebooks, or use pre-trained models.
 - Navigate to `app` folder and run Streamlit app `streamlit run soc_app.py`.
-- To deploy to Streamlit Cloud visit [soc-cloud-app](https://github.com/sautee/soc-cloud-app)[soc-cloud-app].
+- To deploy to Streamlit Cloud visit [soc-cloud-app](https://github.com/sautee/soc-cloud-app).
 
 ## Environment Setup
 Using 'pip install'. Run the following command to install requirements.
@@ -38,7 +38,7 @@ conda env create -f environment.yml
 Andrew C, Talha K, Nemesh W, Xili D -- Memorial Univserity of Newfoundland
 
 ## Other Research Areas
-**Battery Surface Temperature Estimation** - using the [Panasonic 18650PF](https://data.mendeley.com/datasets/wykht8y7tg/1) dataset used here.
+****Battery Surface Temperature Estimation**** - using the [Panasonic 18650PF](https://data.mendeley.com/datasets/wykht8y7tg/1) dataset used here.
 
 M. Naguib, P. Kollmeyer and A. Emadi, "Application of Deep Neural Networks for Lithium Ion 
 Battery Surface Temperature Estimation Under Driving and Fast Charge Conditions," IEEE 
